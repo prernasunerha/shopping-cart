@@ -206,4 +206,11 @@ var shoppingCart = (function() {
   });
   
   displayCart();
+
+// Order now 
+function myFunction () {
+  
+  
+}
+
   
